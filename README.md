@@ -82,12 +82,17 @@ Financial documents often embed valuable cause-and-effect relationships in compl
 
 ---
 
-## 📈 Sample Output
+## 📈 Implementation
 
 Example:
-- **Cause**: "Revenue declined"
-- **Effect**: "Stock price dropped"
+- **Input**: Due to disappointing earnings report the company's stock price fell sharply.
+- **Cause**: "Due to disappointing earnings report"
+- **Effect**: "the companys stock price fell sharply"
 - **Relation**: Cause → Effect
+
+- Below are two implementation screenshots demonstrating the model's output:
+
+<p align="center"> <img src="output_example_1.png" alt="Sample Output 1" width="600"/> </p> <p align="center"> <img src="output_example_2.png" alt="Sample Output 2" width="600"/> </p>
 
 ---
 
