@@ -99,12 +99,6 @@ Example:
 
 ---
 
-## 👤 Author
-
-**Abhishek**
-
----
-
 ## 📜 License
 
 This project is shared for educational and demonstrative purposes. Commercial use or redistribution requires permission.
